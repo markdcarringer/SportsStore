@@ -1,0 +1,9 @@
+c:\users\carringermd\documents\visual studio 2017\Projects\SportsStore\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.deps.json
+c:\users\carringermd\documents\visual studio 2017\Projects\SportsStore\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.runtimeconfig.json
+c:\users\carringermd\documents\visual studio 2017\Projects\SportsStore\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.runtimeconfig.dev.json
+c:\users\carringermd\documents\visual studio 2017\Projects\SportsStore\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.dll
+c:\users\carringermd\documents\visual studio 2017\Projects\SportsStore\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.pdb
+c:\users\carringermd\documents\visual studio 2017\Projects\SportsStore\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.csprojResolveAssemblyReference.cache
+c:\users\carringermd\documents\visual studio 2017\Projects\SportsStore\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.AssemblyInfo.cs
+c:\users\carringermd\documents\visual studio 2017\Projects\SportsStore\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.dll
+c:\users\carringermd\documents\visual studio 2017\Projects\SportsStore\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.pdb
