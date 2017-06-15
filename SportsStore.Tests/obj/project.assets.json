@@ -11460,10 +11460,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\carringermd\\Documents\\Visual Studio 2017\\Projects\\SportsStore\\SportsStore.Tests\\SportsStore.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\carringermd\\documents\\visual studio 2017\\Projects\\SportsStore\\SportsStore.Tests\\SportsStore.Tests.csproj",
       "projectName": "SportsStore.Tests",
-      "projectPath": "C:\\Users\\carringermd\\Documents\\Visual Studio 2017\\Projects\\SportsStore\\SportsStore.Tests\\SportsStore.Tests.csproj",
-      "outputPath": "C:\\Users\\carringermd\\Documents\\Visual Studio 2017\\Projects\\SportsStore\\SportsStore.Tests\\obj\\",
+      "projectPath": "C:\\Users\\carringermd\\documents\\visual studio 2017\\Projects\\SportsStore\\SportsStore.Tests\\SportsStore.Tests.csproj",
+      "outputPath": "C:\\Users\\carringermd\\documents\\visual studio 2017\\Projects\\SportsStore\\SportsStore.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
@@ -11471,8 +11471,8 @@
       "frameworks": {
         "netcoreapp1.1": {
           "projectReferences": {
-            "C:\\Users\\carringermd\\Documents\\Visual Studio 2017\\Projects\\SportsStore\\SportsStore\\SportsStore.csproj": {
-              "projectPath": "C:\\Users\\carringermd\\Documents\\Visual Studio 2017\\Projects\\SportsStore\\SportsStore\\SportsStore.csproj"
+            "C:\\Users\\carringermd\\documents\\visual studio 2017\\Projects\\SportsStore\\SportsStore\\SportsStore.csproj": {
+              "projectPath": "C:\\Users\\carringermd\\documents\\visual studio 2017\\Projects\\SportsStore\\SportsStore\\SportsStore.csproj"
             }
           }
         }
