@@ -10299,10 +10299,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\carringermd\\documents\\visual studio 2017\\Projects\\SportsStore\\SportsStore\\SportsStore.csproj",
+      "projectUniqueName": "C:\\Users\\carringermd\\Documents\\Visual Studio 2017\\Projects\\SportsStore\\SportsStore\\SportsStore.csproj",
       "projectName": "SportsStore",
-      "projectPath": "C:\\Users\\carringermd\\documents\\visual studio 2017\\Projects\\SportsStore\\SportsStore\\SportsStore.csproj",
-      "outputPath": "C:\\Users\\carringermd\\documents\\visual studio 2017\\Projects\\SportsStore\\SportsStore\\obj\\",
+      "projectPath": "C:\\Users\\carringermd\\Documents\\Visual Studio 2017\\Projects\\SportsStore\\SportsStore\\SportsStore.csproj",
+      "outputPath": "C:\\Users\\carringermd\\Documents\\Visual Studio 2017\\Projects\\SportsStore\\SportsStore\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
